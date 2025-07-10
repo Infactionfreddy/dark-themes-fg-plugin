@@ -1,0 +1,26 @@
+body.admin-dark {
+    background-color: #1e1e1e;
+    color: #ccc;
+}
+
+body.admin-dark .wrap h1,
+body.admin-dark .form-table th,
+body.admin-dark .form-table td {
+    color: #ddd;
+}
+
+body.admin-dark select,
+body.admin-dark input[type="text"],
+body.admin-dark button,
+body.admin-dark .button {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+body.admin-dark button:hover,
+body.admin-dark .button:hover {
+    background-color: #444;
+}

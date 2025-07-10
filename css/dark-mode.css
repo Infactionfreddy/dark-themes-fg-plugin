@@ -1,0 +1,45 @@
+body.dark-mode {
+    background-color: #242424;
+    color: #eeeeee;
+    
+}
+
+
+body.dark-mode a {
+    color: #ffffff;
+}
+
+body.dark-mode .wp-block {
+    background-color: #242424;
+    color: #dddddd;
+}
+
+body.dark-mode .wp-block-button__link  {
+    background-color: #242424;
+    color: #fff;
+    border-radius: 6px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+body.dark-mode .wp-block-button__link:hover {
+    background-color: #555;
+}
+body.dark-mode .wp-block-mathml-mathmlblock  {
+    color: #ffffff;
+}
+body.dark-mode .entry-title {
+    color: #ffffff; 
+}
+
+
+body.dark-mode .has-inline-color {
+    color: #ffffff !important;
+}
+
+body.dark-mode .colophon  {
+    background-color: #171717 !important;
+}
+body.dark-mode .post-navigation {
+    background-color: #242424 !important;
+}
